@@ -13,4 +13,4 @@ input.onSound(DetectedSound.Loud, function () {
     }
 })
 let lightsOn = false
-input.setSoundThreshold(SoundThreshold.Loud, 128)
+input.setSoundThreshold(SoundThreshold.Loud, 104)
